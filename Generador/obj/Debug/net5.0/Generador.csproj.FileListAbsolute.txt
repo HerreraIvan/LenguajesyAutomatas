@@ -1,0 +1,16 @@
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\bin\Debug\net5.0\Generador.exe
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\bin\Debug\net5.0\Generador.deps.json
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\bin\Debug\net5.0\Generador.runtimeconfig.json
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\bin\Debug\net5.0\Generador.runtimeconfig.dev.json
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\bin\Debug\net5.0\Generador.dll
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\bin\Debug\net5.0\ref\Generador.dll
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\bin\Debug\net5.0\Generador.pdb
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\obj\Debug\net5.0\Generador.csprojAssemblyReference.cache
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\obj\Debug\net5.0\Generador.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\obj\Debug\net5.0\Generador.AssemblyInfoInputs.cache
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\obj\Debug\net5.0\Generador.AssemblyInfo.cs
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\obj\Debug\net5.0\Generador.csproj.CoreCompileInputs.cache
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\obj\Debug\net5.0\Generador.dll
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\obj\Debug\net5.0\ref\Generador.dll
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\obj\Debug\net5.0\Generador.pdb
+D:\ISC\5 semestre\Lenguajes y Aut. II\Unidad 5\Generador\obj\Debug\net5.0\Generador.genruntimeconfig.cache
